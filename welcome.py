@@ -13,3 +13,8 @@ def birthday_generator(age):
     return f"You just had a birthday, you are now {new_age} years old"
 print(birthday_generator(16))
 print(birthday_generator(29))
+
+
+#adding in more code so we can see the commit error message!
+
+print("Hello I love to write out code its oh so fun!")
