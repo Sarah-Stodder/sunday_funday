@@ -30,3 +30,6 @@ def birthday_generator2(age):
 print(birthday_generator2(16))
 print(birthday_generator2(29))
 print(birthday_generator2(70))
+
+
+#this was really fun, adding in those check to make our birthday generation more interactive! 
